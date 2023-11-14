@@ -7,6 +7,8 @@
 <h1 style="color:blue;">A Blue Heading</h1>
 
 <p style="color:red;">A red paragraph.</p>
+<p style="color:yellow;">A red paragraph.</p>
+<p style="color:blue;">A red paragraph.</p>
 
 </body>
 </html>
